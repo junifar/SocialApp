@@ -1,4 +1,0 @@
-SocialApp
-=========
-
-Personal Social Network
